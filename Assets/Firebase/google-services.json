@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "974770610242",
+    "firebase_url": "https://gdgame-5e4f3.firebaseio.com",
+    "project_id": "gdgame-5e4f3",
+    "storage_bucket": "gdgame-5e4f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974770610242:android:feb94b1839bc8c75",
+        "android_client_info": {
+          "package_name": "com.gdg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974770610242-7uc2khlbo4036e4lln78f40kfgnejnlm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKc-vjqOP34cmSb7VC0Fugg8eJPT8jVEo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
